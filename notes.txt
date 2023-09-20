@@ -1,0 +1,6 @@
+mainting history using git - of deleting creqating and updating
+so history is stored at .git file which is basically a hidden file.
+so initialing the git repo - git init command is there
+
+so how do we know what changes are being made in the folder
+- git status 
